@@ -10,21 +10,6 @@ A professional Python library for processing financial tick data into footprint 
 - **Professional Structure**: Clean, modular codebase following Python best practices
 - **Type Safety**: Full type annotations for better IDE support and code reliability
 
-## Installation
-
-### From Source (Development)
-
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/footprint-analyzer.git
-cd footprint-analyzer
-```
-
-2. Install in editable mode:
-```bash
-pip install -e .
-```
-
 ### Dependencies
 
 - Python 3.8+
