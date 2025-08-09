@@ -92,12 +92,6 @@ footprint_analyzer/
 pytest tests/
 ```
 
-### Code Formatting
-
-```bash
-black footprint_analyzer/ examples/ tests/
-```
-
 ### Type Checking
 
 ```bash
